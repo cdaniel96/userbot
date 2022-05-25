@@ -3,7 +3,7 @@ from telethon import events
 
 api_id = 17436972
 api_hash = '07137e882a2c8888d9c65407936fa601'
-phone = '+16086889935'
+phone = '+5354149326'
 client = TelegramClient(phone, api_id, api_hash)
 client.start()
 
